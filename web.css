@@ -80,11 +80,18 @@ nav a:hover{
     border:2px brown solid;
 
 }
-img {
+ aside img {
     width:9%;
     height: 90px;
     float:right;
-    padding: 0% 2px;
+    padding: 0% 10%;
+    margin: 45% 0%;
+    
+    
+}
+img:hover{
+    width:12% ;
+    border-bottom: 2px red solid;
 }
 
 #mainop{
